@@ -1,2 +1,2 @@
 # PhoneGapPOC
- This is a PhoneGap Demo
+ Developed the Web application and Converted web application into Mobile app using PhoneGap.
